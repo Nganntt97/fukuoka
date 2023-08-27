@@ -1,0 +1,77 @@
+*{
+    margin: 0;padding: 0;
+}
+/* p{
+    color: wheat; background-color: tomato;
+} */
+
+/* .captain{
+    color: rgb(229, 173, 132);
+    width: 300px; 
+    height: 200px;
+}
+.haha{
+    background-color:sienna; 
+}
+#lorem{
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    font-style: italic;
+    font-variant: small-caps;
+    font-size: larger;
+}
+.kkk{
+    color: wheat ; background-color: tomato;
+    width: 200px;
+    height: 150px;
+    border: 3px solid black;
+    padding: 50px ;
+    margin-left: 50px;
+
+} */
+/* span{
+    color: wheat; background-color: blueviolet;
+    width: 200px;
+    height: 150px;
+    font-size: x-large;
+    display: inline-block;
+}
+div p{
+    color: violet;
+}
+div :nth-child(2){
+    color:brown
+ } 
+ .login:hover{
+    cursor: pointer;
+    color: yellow;
+ } */
+ .box{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-between;
+    justify-content: space-around;
+
+ }
+ .item1{
+    color: black; background-color: #dbdbdb;
+    width: 200px;
+    height: 150px;
+ }
+
+ .item2{
+    color: black; background-color: #dbdbdb;
+    width: 200px;
+    height: 150px;
+
+ }
+ .item3{
+    color: black; background-color: #dbdbdb;
+    width: 200px;
+    height: 150px;
+ }
+ span{
+    display: inline-block;
+ }
